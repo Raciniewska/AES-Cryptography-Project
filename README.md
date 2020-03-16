@@ -1,0 +1,2 @@
+# AES-Cryptography-Project
+Application to cipher text messages and data files and then send them by using the Ethernet network. The application takes a form of a network secure communicational tool. The application must allow sending and receiving the ciphered data and messages on both sides of communication. It means that user A have the application, and so does the user B. They can send each other ciphered text messages and files.
