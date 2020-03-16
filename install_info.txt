@@ -1,0 +1,6 @@
+OPEN SSL instalation ja zainstalowałam DLL w wersji x64 Debug i release:
+https://www.youtube.com/watch?v=PMHEoBkxYaQ
+
+linki do przykladow:
+https://www.youtube.com/watch?v=LATSg00HaXk&list=PL2D1942A4688E9D63&index=157&t=0s
+https://www.youtube.com/watch?v=qJEuATyXlXQ
