@@ -1,2 +1,3 @@
 ﻿  server.cpp
+C:\Users\Basia\AES-Cryptography-Project\server\server\server.cpp(62): warning C4101: "sever": lokalna zmienna, do której nie istnieje odwołanie
   server.vcxproj -> C:\Users\Basia\AES-Cryptography-Project\server\x64\Debug\server.exe

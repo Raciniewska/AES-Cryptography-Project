@@ -72,6 +72,9 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ExecutablePath>C:\out\DLL\x64\Release\bin;$(ExecutablePath)</ExecutablePath>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ExecutablePath>C:\out\DLL\x64\Debug\bin;$(ExecutablePath)</ExecutablePath>
+  </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>

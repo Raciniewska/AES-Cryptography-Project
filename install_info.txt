@@ -4,3 +4,7 @@ https://www.youtube.com/watch?v=PMHEoBkxYaQ
 linki do przykladow:
 https://www.youtube.com/watch?v=LATSg00HaXk&list=PL2D1942A4688E9D63&index=157&t=0s
 https://www.youtube.com/watch?v=qJEuATyXlXQ
+
+
+generowanie kluczy i certyfikatow:
+https://help.interfaceware.com/v6/how-to-create-self-certified-ssl-certificate-and-publicprivate-key-files
